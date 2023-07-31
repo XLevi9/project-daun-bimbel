@@ -1,4 +1,4 @@
 # project-daun-bimbel
 **Code untuk Bimbel Daun Bimbel**
 
-- masih percobaan
+- percobaan untuk website bisnis Daun Bimbel
